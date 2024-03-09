@@ -59,4 +59,12 @@ Este desenvolvimento em três etapas proporciona uma abordagem abrangente para a
 
 A implementação desses serviços AWS na farmácia Abstergo Industries demonstra um compromisso efetivo com a redução de custos e a melhoria da eficiência operacional. A combinação estratégica de armazenamento, computação serverless e gerenciamento de banco de dados proporciona uma infraestrutura flexível e econômica.
 
+## ANEXOS
+
+1. Detalhes técnicos da configuração do Amazon S3.
+2. Código-fonte das funções AWS Lambda implementadas.
+3. Configurações e métricas relevantes do Amazon RDS.
+
+Assinatura do Responsável pelo Projeto:
+Karine Viana Caldas 
 
